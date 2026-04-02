@@ -4,7 +4,7 @@
 - Arnaudo, Federico Andres
 
 ### Nombre del Grupo:
-- Attake x86
+- Ataque x86
 
 # Informe: Uso de Benchmarks para la Selección de Hardware
 
