@@ -1,10 +1,10 @@
 # TP1-Performance y Rendimiento de los computadores
 
-### Participantes:
-- Arnaudo, Federico Andres
-
 ### Nombre del Grupo:
 - Ataque x86
+
+### Participantes:
+- Arnaudo, Federico Andres
 
 # Informe: Uso de Benchmarks para la Selección de Hardware
 
